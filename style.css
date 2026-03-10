@@ -1,0 +1,21 @@
+body{
+background:#111;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+font-family:Arial;
+}
+
+.relogio{
+background:#222;
+padding:40px;
+border-radius:10px;
+box-shadow:0 0 20px rgba(0,0,0,0.5);
+}
+
+#hora{
+font-size:60px;
+letter-spacing:5px;
+}
